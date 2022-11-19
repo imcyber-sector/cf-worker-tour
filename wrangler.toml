@@ -1,0 +1,4 @@
+main = "./src/index.ts"
+name = "ventrata-app"
+compatibility_date = "2022-07-26"
+account_id = "bbc8c295236814513578075cd130f423"
